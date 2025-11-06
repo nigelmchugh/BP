@@ -15,7 +15,7 @@ export default function HomePage() {
             </h1>
             <p className="mt-6 text-pretty text-lg leading-relaxed text-muted-foreground lg:text-xl">
               How BP leverages Next.js, Contentful, and Vercel to manage 40+ brands across 80+ countries with
-              unparalleled agility and scale.
+              unparalleled agility and  scale.
             </p>
             <div className="mt-10 flex items-center justify-center gap-4">
               <Button size="lg" className="gap-2">
